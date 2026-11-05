@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Terra_Geo_Map_0.mp4)
+![Terra Geo Map preview](../assets/previews/Terra_Geo_Map.gif)
+
+▶️ [Watch full video 1](../assets/videos/Terra_Geo_Map_0.mp4)
 ## 📋 Prompt
 
 ```text

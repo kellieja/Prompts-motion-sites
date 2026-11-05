@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Railroad.ai_0.mp4)
+![Railroad.ai preview](../assets/previews/Railroad.ai.gif)
+
+▶️ [Watch full video 1](../assets/videos/Railroad.ai_0.mp4)
 ## 📋 Prompt
 
 ```text

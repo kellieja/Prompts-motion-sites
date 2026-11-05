@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Bloom_AI_0.mp4)
+![Bloom AI preview](../assets/previews/Bloom_AI.gif)
+
+▶️ [Watch full video 1](../assets/videos/Bloom_AI_0.mp4)
 ## 📋 Prompt
 
 ```text

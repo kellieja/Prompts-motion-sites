@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Synapse_Dark_Hero_0.mp4)
+![Synapse Dark Hero preview](../assets/previews/Synapse_Dark_Hero.gif)
+
+▶️ [Watch full video 1](../assets/videos/Synapse_Dark_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

@@ -8,9 +8,11 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/NOVA_Space_Systems_1.mp4)
+![NOVA Space Systems preview](../assets/previews/NOVA_Space_Systems.gif)
 
-![Video Preview 1](../assets/videos/NOVA_Space_Systems_2.mp4)
+▶️ [Watch full video 1](../assets/videos/NOVA_Space_Systems_1.mp4)
+
+▶️ [Watch full video 2](../assets/videos/NOVA_Space_Systems_2.mp4)
 ## 📋 Prompt
 
 ```text

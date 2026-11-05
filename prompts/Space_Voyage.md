@@ -8,9 +8,11 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Space_Voyage_0.mp4)
+![Space Voyage preview](../assets/previews/Space_Voyage.gif)
 
-![Video Preview 1](../assets/videos/Space_Voyage_1.mp4)
+▶️ [Watch full video 1](../assets/videos/Space_Voyage_0.mp4)
+
+▶️ [Watch full video 2](../assets/videos/Space_Voyage_1.mp4)
 ## 📋 Prompt
 
 ```text

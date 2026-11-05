@@ -8,9 +8,11 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/NeoVision_0.mp4)
+![NeoVision preview](../assets/previews/NeoVision.gif)
 
-![Video Preview 1](../assets/videos/NeoVision_1.mp4)
+▶️ [Watch full video 1](../assets/videos/NeoVision_0.mp4)
+
+▶️ [Watch full video 2](../assets/videos/NeoVision_1.mp4)
 ## 📋 Prompt
 
 ```text

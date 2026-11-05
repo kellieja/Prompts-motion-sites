@@ -8,6 +8,10 @@
 
 ## 🎬 Video Preview
 
+![Glassmorphism Agency Hero preview](../assets/images/Glassmorphism_Agency_Hero_preview.png)
+
+_This preview was built from the prompt below, because the original video is not available. Treat it as a close interpretation, not the original design._
+
 <video width="100%" controls autoplay muted loop>
   <source src="https://customer-cbeadsgr09pnsezs.cloudflarestream.com/697945ca6b876878dba3b23fbd2f1561/manifest/video.m3u8" type="application/vnd.apple.mpegurl">
   Your browser does not support the video tag.

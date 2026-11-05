@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/New_Era_Bold_Hero_0.mp4)
+![New Era Bold Hero preview](../assets/previews/New_Era_Bold_Hero.gif)
+
+▶️ [Watch full video 1](../assets/videos/New_Era_Bold_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

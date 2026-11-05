@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Orbit_Web3_0.mp4)
+![Orbit Web3 preview](../assets/previews/Orbit_Web3.gif)
+
+▶️ [Watch full video 1](../assets/videos/Orbit_Web3_0.mp4)
 ## 📋 Prompt
 
 ```text

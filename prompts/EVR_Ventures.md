@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/EVR_Ventures_0.mp4)
+![EVR Ventures preview](../assets/previews/EVR_Ventures.gif)
+
+▶️ [Watch full video 1](../assets/videos/EVR_Ventures_0.mp4)
 ## 📋 Prompt
 
 ```text

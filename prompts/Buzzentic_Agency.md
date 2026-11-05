@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Buzzentic_Agency_0.mp4)
+![Buzzentic Agency preview](../assets/previews/Buzzentic_Agency.gif)
+
+▶️ [Watch full video 1](../assets/videos/Buzzentic_Agency_0.mp4)
 ## 📋 Prompt
 
 ```text

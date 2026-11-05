@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Portfolio_Cosmic_0.mp4)
+![Portfolio Cosmic preview](../assets/previews/Portfolio_Cosmic.gif)
+
+▶️ [Watch full video 1](../assets/videos/Portfolio_Cosmic_0.mp4)
 ## 📋 Prompt
 
 ```text

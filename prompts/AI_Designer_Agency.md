@@ -8,9 +8,11 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/AI_Designer_Agency_0.mp4)
+![AI Designer Agency preview](../assets/previews/AI_Designer_Agency.gif)
 
-![Video Preview 1](../assets/videos/AI_Designer_Agency_6.mp4)
+▶️ [Watch full video 1](../assets/videos/AI_Designer_Agency_0.mp4)
+
+▶️ [Watch full video 2](../assets/videos/AI_Designer_Agency_6.mp4)
 ## 📋 Prompt
 
 ```text

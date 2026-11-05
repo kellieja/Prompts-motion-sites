@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Nexus_IT_Solutions_0.mp4)
+![Nexus IT Solutions preview](../assets/previews/Nexus_IT_Solutions.gif)
+
+▶️ [Watch full video 1](../assets/videos/Nexus_IT_Solutions_0.mp4)
 ## 📋 Prompt
 
 ```text

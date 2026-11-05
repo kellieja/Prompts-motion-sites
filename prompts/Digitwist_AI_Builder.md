@@ -8,9 +8,11 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Digitwist_AI_Builder_0.mp4)
+![Digitwist AI Builder preview](../assets/previews/Digitwist_AI_Builder.gif)
 
-![Video Preview 1](../assets/videos/Digitwist_AI_Builder_1.mp4)
+▶️ [Watch full video 1](../assets/videos/Digitwist_AI_Builder_0.mp4)
+
+▶️ [Watch full video 2](../assets/videos/Digitwist_AI_Builder_1.mp4)
 ## 📋 Prompt
 
 ```text

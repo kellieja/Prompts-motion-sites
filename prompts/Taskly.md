@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Taskly_0.webm)
+![Taskly preview](../assets/previews/Taskly.gif)
+
+▶️ [Watch full video 1](../assets/videos/Taskly_0.webm)
 ## 📋 Prompt
 
 ```text

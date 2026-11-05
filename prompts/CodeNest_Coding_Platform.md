@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/CodeNest_Coding_Platform_0.mp4)
+![CodeNest Coding Platform preview](../assets/previews/CodeNest_Coding_Platform.gif)
+
+▶️ [Watch full video 1](../assets/videos/CodeNest_Coding_Platform_0.mp4)
 ## 📋 Prompt
 
 ```text

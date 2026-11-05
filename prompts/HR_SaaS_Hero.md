@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/HR_SaaS_Hero_0.mp4)
+![HR SaaS Hero preview](../assets/previews/HR_SaaS_Hero.gif)
+
+▶️ [Watch full video 1](../assets/videos/HR_SaaS_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

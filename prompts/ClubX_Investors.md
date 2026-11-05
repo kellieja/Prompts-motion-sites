@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/ClubX_Investors_0.mp4)
+![ClubX Investors preview](../assets/previews/ClubX_Investors.gif)
+
+▶️ [Watch full video 1](../assets/videos/ClubX_Investors_0.mp4)
 ## 📋 Prompt
 
 ```text

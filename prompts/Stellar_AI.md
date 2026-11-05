@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Stellar_AI_0.mp4)
+![Stellar AI preview](../assets/previews/Stellar_AI.gif)
+
+▶️ [Watch full video 1](../assets/videos/Stellar_AI_0.mp4)
 ## 📋 Prompt
 
 ```text

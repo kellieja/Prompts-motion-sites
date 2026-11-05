@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Neuralyn_0.mp4)
+![Neuralyn preview](../assets/previews/Neuralyn.gif)
+
+▶️ [Watch full video 1](../assets/videos/Neuralyn_0.mp4)
 ## 📋 Prompt
 
 ```text

@@ -8,7 +8,10 @@
 
 ## 🎬 Video Preview
 
-_No video preview available for this prompt._
+![Loader Animation preview](../assets/images/Loader_Animation_preview.gif)
+
+_This preview was built from the prompt below, because the original video is not available. Treat it as a close interpretation, not the original design._
+
 
 ---
 

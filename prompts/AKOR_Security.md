@@ -8,9 +8,11 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/AKOR_Security_0.mp4)
+![AKOR Security preview](../assets/previews/AKOR_Security.gif)
 
-![Video Preview 1](../assets/videos/AKOR_Security_5.mp4)
+▶️ [Watch full video 1](../assets/videos/AKOR_Security_0.mp4)
+
+▶️ [Watch full video 2](../assets/videos/AKOR_Security_5.mp4)
 ## 📋 Prompt
 
 ```text

@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Web3_EOS_Hero_0.mp4)
+![Web3 EOS Hero preview](../assets/previews/Web3_EOS_Hero.gif)
+
+▶️ [Watch full video 1](../assets/videos/Web3_EOS_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

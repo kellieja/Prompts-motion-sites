@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Wealth_Video_Hero_0.mp4)
+![Wealth Video Hero preview](../assets/previews/Wealth_Video_Hero.gif)
+
+▶️ [Watch full video 1](../assets/videos/Wealth_Video_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

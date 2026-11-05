@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/xPortfolio_Hero_0.mp4)
+![xPortfolio Hero preview](../assets/previews/xPortfolio_Hero.gif)
+
+▶️ [Watch full video 1](../assets/videos/xPortfolio_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

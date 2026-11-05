@@ -8,17 +8,19 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Orbis_NFT_0.mp4)
+![Orbis NFT preview](../assets/previews/Orbis_NFT.gif)
 
-![Video Preview 1](../assets/videos/Orbis_NFT_1.mp4)
+▶️ [Watch full video 1](../assets/videos/Orbis_NFT_0.mp4)
 
-![Video Preview 2](../assets/videos/Orbis_NFT_2.mp4)
+▶️ [Watch full video 2](../assets/videos/Orbis_NFT_1.mp4)
 
-![Video Preview 3](../assets/videos/Orbis_NFT_3.mp4)
+▶️ [Watch full video 3](../assets/videos/Orbis_NFT_2.mp4)
 
-![Video Preview 4](../assets/videos/Orbis_NFT_4.mp4)
+▶️ [Watch full video 4](../assets/videos/Orbis_NFT_3.mp4)
 
-![Video Preview 5](../assets/videos/Orbis_NFT_5.mp4)
+▶️ [Watch full video 5](../assets/videos/Orbis_NFT_4.mp4)
+
+▶️ [Watch full video 6](../assets/videos/Orbis_NFT_5.mp4)
 ## 📋 Prompt
 
 ```text

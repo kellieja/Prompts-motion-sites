@@ -8,15 +8,17 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Investor_Deck_0.mp4)
+![Investor Deck preview](../assets/previews/Investor_Deck.gif)
 
-![Video Preview 1](../assets/videos/Investor_Deck_1.mp4)
+▶️ [Watch full video 1](../assets/videos/Investor_Deck_0.mp4)
 
-![Video Preview 2](../assets/videos/Investor_Deck_2.mp4)
+▶️ [Watch full video 2](../assets/videos/Investor_Deck_1.mp4)
 
-![Video Preview 3](../assets/videos/Investor_Deck_3.mp4)
+▶️ [Watch full video 3](../assets/videos/Investor_Deck_2.mp4)
 
-![Video Preview 4](../assets/videos/Investor_Deck_4.mp4)
+▶️ [Watch full video 4](../assets/videos/Investor_Deck_3.mp4)
+
+▶️ [Watch full video 5](../assets/videos/Investor_Deck_4.mp4)
 ## 📋 Prompt
 
 ```text

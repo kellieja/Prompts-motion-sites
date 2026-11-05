@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Nickel_Payments_0.mp4)
+![Nickel Payments preview](../assets/previews/Nickel_Payments.gif)
+
+▶️ [Watch full video 1](../assets/videos/Nickel_Payments_0.mp4)
 ## 📋 Prompt
 
 ```text

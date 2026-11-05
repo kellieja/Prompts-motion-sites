@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Sync_AI_0.mp4)
+![Sync AI preview](../assets/previews/Sync_AI.gif)
+
+▶️ [Watch full video 1](../assets/videos/Sync_AI_0.mp4)
 ## 📋 Prompt
 
 ```text

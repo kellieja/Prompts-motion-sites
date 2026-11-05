@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Grow_AI_Talent_Platform_0.mp4)
+![Grow AI Talent Platform preview](../assets/previews/Grow_AI_Talent_Platform.gif)
+
+▶️ [Watch full video 1](../assets/videos/Grow_AI_Talent_Platform_0.mp4)
 ## 📋 Prompt
 
 ```text

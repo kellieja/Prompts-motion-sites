@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Nexora_Automation_0.mp4)
+![Nexora Automation preview](../assets/previews/Nexora_Automation.gif)
+
+▶️ [Watch full video 1](../assets/videos/Nexora_Automation_0.mp4)
 ## 📋 Prompt
 
 ```text

@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Datacore_Booking_0.mp4)
+![Datacore Booking preview](../assets/previews/Datacore_Booking.gif)
+
+▶️ [Watch full video 1](../assets/videos/Datacore_Booking_0.mp4)
 ## 📋 Prompt
 
 ```text

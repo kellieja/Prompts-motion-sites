@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Power_AI_0.mp4)
+![Power AI preview](../assets/previews/Power_AI.gif)
+
+▶️ [Watch full video 1](../assets/videos/Power_AI_0.mp4)
 ## 📋 Prompt
 
 ```text

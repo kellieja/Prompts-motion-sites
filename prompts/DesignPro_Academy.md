@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/DesignPro_Academy_0.mp4)
+![DesignPro Academy preview](../assets/previews/DesignPro_Academy.gif)
+
+▶️ [Watch full video 1](../assets/videos/DesignPro_Academy_0.mp4)
 ## 📋 Prompt
 
 ```text

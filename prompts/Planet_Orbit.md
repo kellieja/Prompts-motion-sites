@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Planet_Orbit_0.mp4)
+![Planet Orbit preview](../assets/previews/Planet_Orbit.gif)
+
+▶️ [Watch full video 1](../assets/videos/Planet_Orbit_0.mp4)
 ## 📋 Prompt
 
 ```text

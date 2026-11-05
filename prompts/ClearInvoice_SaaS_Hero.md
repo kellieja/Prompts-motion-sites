@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/ClearInvoice_SaaS_Hero_0.mp4)
+![ClearInvoice SaaS Hero preview](../assets/previews/ClearInvoice_SaaS_Hero.gif)
+
+▶️ [Watch full video 1](../assets/videos/ClearInvoice_SaaS_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

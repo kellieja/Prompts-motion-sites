@@ -8,13 +8,15 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Liquid_Glass_Agency_0.mp4)
+![Liquid Glass Agency preview](../assets/previews/Liquid_Glass_Agency.gif)
 
-![Video Preview 1](../assets/videos/Liquid_Glass_Agency_1.mp4)
+▶️ [Watch full video 1](../assets/videos/Liquid_Glass_Agency_0.mp4)
 
-![Video Preview 2](../assets/videos/Liquid_Glass_Agency_2.mp4)
+▶️ [Watch full video 2](../assets/videos/Liquid_Glass_Agency_1.mp4)
 
-![Video Preview 3](../assets/videos/Liquid_Glass_Agency_3.mp4)
+▶️ [Watch full video 3](../assets/videos/Liquid_Glass_Agency_2.mp4)
+
+▶️ [Watch full video 4](../assets/videos/Liquid_Glass_Agency_3.mp4)
 ## 📋 Prompt
 
 ```text

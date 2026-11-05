@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/SkyElite_Private_Jets_0.mp4)
+![SkyElite Private Jets preview](../assets/previews/SkyElite_Private_Jets.gif)
+
+▶️ [Watch full video 1](../assets/videos/SkyElite_Private_Jets_0.mp4)
 ## 📋 Prompt
 
 ```text

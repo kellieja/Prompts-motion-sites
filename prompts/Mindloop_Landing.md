@@ -8,13 +8,15 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Mindloop_Landing_0.mp4)
+![Mindloop Landing preview](../assets/previews/Mindloop_Landing.gif)
 
-![Video Preview 1](../assets/videos/Mindloop_Landing_1.mp4)
+▶️ [Watch full video 1](../assets/videos/Mindloop_Landing_0.mp4)
 
-![Video Preview 2](../assets/videos/Mindloop_Landing_2.mp4)
+▶️ [Watch full video 2](../assets/videos/Mindloop_Landing_1.mp4)
 
-![Video Preview 3](../assets/videos/Mindloop_Landing_3.mp4)
+▶️ [Watch full video 3](../assets/videos/Mindloop_Landing_2.mp4)
+
+▶️ [Watch full video 4](../assets/videos/Mindloop_Landing_3.mp4)
 ## 📋 Prompt
 
 ```text

@@ -8,7 +8,11 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/AI_Automation_Hero_0.mp4)
+![AI Automation Hero preview](../assets/images/AI_Automation_Hero_preview.png)
+
+_This preview was built from the prompt below, because the original video is not available. Treat it as a close interpretation, not the original design._
+
+▶️ [Watch full video 1](../assets/videos/AI_Automation_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

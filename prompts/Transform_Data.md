@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Transform_Data_0.mp4)
+![Transform Data preview](../assets/previews/Transform_Data.gif)
+
+▶️ [Watch full video 1](../assets/videos/Transform_Data_0.mp4)
 ## 📋 Prompt
 
 ```text

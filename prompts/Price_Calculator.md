@@ -8,7 +8,10 @@
 
 ## 🎬 Video Preview
 
-_No video preview available for this prompt._
+![Price Calculator preview](../assets/images/Price_Calculator_preview.png)
+
+_This preview was built from the prompt below, because the original video is not available. Treat it as a close interpretation, not the original design._
+
 
 ---
 

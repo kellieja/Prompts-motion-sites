@@ -8,9 +8,11 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Framelix_3D_Studios_0.mp4)
+![Framelix 3D Studios preview](../assets/previews/Framelix_3D_Studios.gif)
 
-![Video Preview 1](../assets/videos/Framelix_3D_Studios_1.mp4)
+▶️ [Watch full video 1](../assets/videos/Framelix_3D_Studios_0.mp4)
+
+▶️ [Watch full video 2](../assets/videos/Framelix_3D_Studios_1.mp4)
 ## 📋 Prompt
 
 ```text

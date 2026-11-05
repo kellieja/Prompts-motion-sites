@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Logoisum_Video_Agency_0.mp4)
+![Logoisum Video Agency preview](../assets/previews/Logoisum_Video_Agency.gif)
+
+▶️ [Watch full video 1](../assets/videos/Logoisum_Video_Agency_0.mp4)
 ## 📋 Prompt
 
 ```text

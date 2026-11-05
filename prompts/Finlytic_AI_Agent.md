@@ -8,7 +8,9 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Finlytic_AI_Agent_0.mp4)
+![Finlytic AI Agent preview](../assets/previews/Finlytic_AI_Agent.gif)
+
+▶️ [Watch full video 1](../assets/videos/Finlytic_AI_Agent_0.mp4)
 ## 📋 Prompt
 
 ```text

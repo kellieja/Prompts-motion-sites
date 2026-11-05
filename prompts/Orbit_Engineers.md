@@ -8,11 +8,13 @@
 
 ## 🎬 Video Preview
 
-![Video Preview 0](../assets/videos/Orbit_Engineers_0.mp4)
+![Orbit Engineers preview](../assets/previews/Orbit_Engineers.gif)
 
-![Video Preview 1](../assets/videos/Orbit_Engineers_1.mp4)
+▶️ [Watch full video 1](../assets/videos/Orbit_Engineers_0.mp4)
 
-![Video Preview 2](../assets/videos/Orbit_Engineers_2.mp4)
+▶️ [Watch full video 2](../assets/videos/Orbit_Engineers_1.mp4)
+
+▶️ [Watch full video 3](../assets/videos/Orbit_Engineers_2.mp4)
 ## 📋 Prompt
 
 ```text
